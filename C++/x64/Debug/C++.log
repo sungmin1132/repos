@@ -1,0 +1,4 @@
+﻿  오델로펌.cpp
+C:\Users\gram\source\repos\C++\오델로펌.cpp(108,9): warning C4101: 'm' :참조되지 않은 지역 변수입니다.
+C:\Users\gram\source\repos\C++\오델로펌.cpp(108,6): warning C4101: 'n' :참조되지 않은 지역 변수입니다.
+  C++.vcxproj -> C:\Users\gram\source\repos\Project1\x64\Debug\C++.exe
